@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+
+<!DOCTYPE questions>
+
+<questions>
+
+<question id="oscar1">
+	<type>text</type>
+	<title>1. Además de TITANIC y EL RETORNO DEL REY(ESDLA) ¿Qué película del 1959 es la más galardonada de la historia de los Oscar?</title>
+	<answer>Ben Hur</answer>
+</question>
+	
+<question id="oscar2">
+	<type>select</type>
+	<title>2. ¿En qué año nacieron los premios Oscar?</title>
+		<option>a) 1958</option>
+		<option>b) 1929</option>
+		<option>c) 1970</option>
+		<option>d) 2000</option>
+	<answer>2</answer>
+</question>
+
+<question id="oscar3">
+	<type>multiple</type>
+	<title>3. De las siquientes películas,¿Cuáles ha protagonizado Denzel Washington?</title>
+		<option>a) Cadena perpetua</option>
+		<option>b) Training Day</option>
+		<option>c) El coleccionista de huesos</option>
+		<option>d) Independence day</option>
+	<answer>1</answer>
+	<answer>2</answer>
+</question>
+
+<question id="oscar4">
+	<type>radio</type>
+	<title>4. Marca la correcta,¿Cuántos Oscar tiene Leonardo Di Caprio?</title>
+		<option>a) 3</option>
+		<option>b) 4</option>
+		<option>c) 1</option>
+		<option>d) 2</option>
+	<answer>2</answer>
+</question>	
+
+<question id="oscar5">
+	<type>checkbox</type>
+	<title>5. ¿Con qué película gano un Oscar Matthew Mcconaughey?</title>
+		<option>a) Dallas Buyers Club</option>
+		<option>b) Interstellar</option>
+		<option>c) True Detective</option>
+	<answer>0</answer>
+</question>
+
+<question id="oscar6">
+	<type>text</type>
+	<title>6. ¿Cuántos Oscars tiene Meryl Streep?</title>
+	<answer>3</answer>
+</question>
+
+<question id="oscar7">
+	<type>checkbox</type>
+	<title>7. ¿Con qué películas ha ganado Tom Hanks el Oscar a Mejor Actor?</title>
+		<option>a) Capitan Philips, Big</option>
+		<option>b) Philadelphia, Forrest Gump</option>
+		<option>c) Big, Naufrago</option>
+	<answer>1</answer>
+</question>	
+
+	
+<question id="oscar8">
+	<type>text<type>
+	<title>8.¿Cuántos Oscars en total tiene la trilogía del Señor de los Anillos?</title>
+	<answer>17</answer>
+</question>
+	
+<question id="oscar9">
+	<type>select</type>
+	<title>9. ¿Quién fue el primer Afroamericano en ganar un Oscar?</title>
+		<option>a) Eddie Murphy</option>
+		<option>b) Sidney Poitier</option>
+		<option>c) Morgan Freeman</option> 
+	<answer>1</answer>
+	</question>
+
+<question id="oscar10">
+	<type>select</type>
+	<title>10. ¿Cómo se llaman los premios “Anti-Oscar” o premios a peores películas?</title>
+		<option>a) Razzies</option>
+		<option>b) No-Oscar</option>
+		<option>c) Golden Man</option> 
+	<answer>0</answer>
+</question>
+</questions>
